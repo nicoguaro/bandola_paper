@@ -1,0 +1,2 @@
+Number of datapoints: 200 datapoints
+Resolution: 4 Hz
